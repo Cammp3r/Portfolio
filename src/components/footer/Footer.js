@@ -1,7 +1,6 @@
 import "./style.css"
 import discord from "./../../img/icons/discord.svg"
 import github from "./../../img/icons/gitHub.svg"
-import linkedin from "./../../img/icons/linkedIn.svg"
 
 
 const Footer = () => {
@@ -12,8 +11,7 @@ const Footer = () => {
                 <ul className="social">  
                     <li className="social__item"><a href="#!"><img src={discord} alt="Link"/></a></li>
                     <li className="social__item"><a href="#!"><img src={github} alt="Link"/></a></li>
-                    <li className="social__item"><a href="#!"><img src={linkedin} alt="Link"/></a></li>
-                </ul>
+                    git reset --soft HEAD^                </ul>
                 <div className="copyright">
                     <p>© 2024 </p>
                 </div>
