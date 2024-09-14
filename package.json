@@ -1,7 +1,7 @@
 {
   "name": "fp01",
   "version": "0.1.0",
-  "homepage": "https://Cammp3r.github.io/portfoli0",
+  "homepage": "https://Cammp3r.github.io/Portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
