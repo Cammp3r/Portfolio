@@ -8,7 +8,7 @@ import Contacts from "./components/pages/Contacts"
 import Project from "./components/pages/Project"
 import ScrollToTop from "./utils/scroll";
 
-
+ 
 function App() {
   return (
     <div className="App">
