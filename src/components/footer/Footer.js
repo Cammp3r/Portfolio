@@ -11,7 +11,7 @@ const Footer = () => {
                 <ul className="social">  
                     <li className="social__item"><a href="#!"><img src={discord} alt="Link"/></a></li>
                     <li className="social__item"><a href="#!"><img src={github} alt="Link"/></a></li>
-                    git reset --soft HEAD^                </ul>
+                      </ul>
                 <div className="copyright">
                     <p>© 2024 </p>
                 </div>
